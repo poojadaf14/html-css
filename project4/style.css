@@ -1,0 +1,24 @@
+ body{
+    background-color: #e8e6e6;
+ }
+ 
+ nav{
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    bottom: 85%;
+    margin-left: 10%;
+    
+ }  
+
+ nav ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    margin-left: 80%;
+    font-size: 18px;
+ }
+ nav ul li{
+   
+    margin: 10%;
+ }
