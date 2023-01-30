@@ -1,0 +1,25 @@
+body{
+    background-color: #131313;
+}
+
+main{
+    display: flex;
+}
+
+nav{
+    color: white;
+    justify-content: space-between;
+
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+nav ul li{
+    margin: 5%;
+
+   
+}
