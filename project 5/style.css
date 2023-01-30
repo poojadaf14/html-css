@@ -23,3 +23,21 @@ nav ul li{
 
    
 }
+main h1{
+     color: white;
+     font-size: 70px;
+     margin-left: 10%;
+}
+
+main h3{
+    color: white;
+     font-size: 25px;
+     margin-left: 10%;
+}
+
+main p{
+    font-size: 20px;
+    color: #eae9e9;
+    line-height: 1.5;
+    margin-left: 10%;
+}
